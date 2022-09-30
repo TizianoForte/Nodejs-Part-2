@@ -1,3 +1,3 @@
-# api-project-dev
+# Esercizi della Seconda Parte di Node
 
-api project to learn node
+repo divisa a branch per ogni esercizio.
